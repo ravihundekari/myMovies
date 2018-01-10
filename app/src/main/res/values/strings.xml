@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="action_info">Info</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="play_icon_image">Play icon image</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="multiple_movie_images">multiple movie images</string>
+    <string name="menu_refresh">Refresh Menu</string>
+    <string name="please_check_with_your_internet_connectivity_and_try_again">Please check with your internet connectivity and try again.</string>
+    <string name="developed_by">Developed By</string>
+    <string name="ravi_hundekari">Ravi Hundekari</string>
+    <string name="information">Information</string>
+</resources>
